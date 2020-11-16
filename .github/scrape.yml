@@ -1,0 +1,26 @@
+name: Scrape de datos más recientes
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/10 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out del repo
+      uses: actions/checkout@v2
+    - name: Buscar datos
+      run: |-
+        curl https://www.enre.gov.ar/Graficos/UFS/data/Datos_UFS.js > datos_ufs.json
+        curl https://www.enre.gov.ar/mapaCortes/datos/Datos_PaginaWeb.js > datos_mapa.json
+    - name: Commit y push si hay cambios
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
