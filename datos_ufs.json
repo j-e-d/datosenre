@@ -1,9 +1,4 @@
 UFS = [
-['20:00', 4873, 5854, '10d', 'Lluvia Ligera ', '20'],
-['20:05', 4841, 5854, '10n', 'Lluvia Ligera ', '20'],
-['20:10', 4840, 5217, '10n', 'Lluvia Ligera ', '20'],
-['20:15', 4839, 5217, '10n', 'Lluvia Ligera ', '20'],
-['20:20', 4839, 5217, '10n', 'Lluvia Ligera ', '20'],
 ['20:25', 4839, 5217, '10n', 'Lluvia Ligera ', '20'],
 ['20:30', 4473, 4336, '10n', 'Lluvia Ligera ', '20'],
 ['20:35', 6905, 4420, '10n', 'Lluvia Ligera ', '20'],
@@ -286,12 +281,17 @@ UFS = [
 ['19:40', 5290, 3359, '04d', 'Muy Nuboso ', '24'],
 ['19:45', 5290, 3305, '10d', 'Lluvia Ligera ', '24'],
 ['19:50', 5290, 3305, '10d', 'Lluvia Ligera ', '24'],
-['19:55', 5314, 3697, '10d', 'Lluvia Ligera ', '24']
+['19:55', 5314, 3697, '10d', 'Lluvia Ligera ', '24'],
+['20:00', 5314, 3681, '10d', 'Lluvia Ligera ', '24'],
+['20:05', 5227, 2939, '10d', 'Lluvia Ligera ', '24'],
+['20:10', 5227, 2939, '04n', 'Muy Nuboso ', '24'],
+['20:15', 3716, 2931, '04n', 'Muy Nuboso ', '24'],
+['20:20', 3717, 2931, '04n', 'Muy Nuboso ', '24']
 ];
 Hora_del_pico_maximo_EDS: '20:45';
 Pico_maximo_EDS = '8677';
 Hora_del_pico_maximo_EDN: '09:15';
 Pico_maximo_EDN = '7342';
-Valor_actual_EDS = '5314';
-Valor_actual_EDN = '3697';
-Hora_actual= '19:55';
+Valor_actual_EDS = '3717';
+Valor_actual_EDN = '2931';
+Hora_actual= '20:20';
