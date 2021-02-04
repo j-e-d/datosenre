@@ -1,9 +1,4 @@
 UFS = [
-['23:05', 5814, 108, '02n', 'Algo De Nubes ', '22'],
-['23:10', 5814, 108, '02n', 'Algo De Nubes ', '22'],
-['23:15', 5814, 108, '03n', 'Nubes Dispersas ', '22'],
-['23:20', 5814, 108, '03n', 'Nubes Dispersas ', '22'],
-['23:25', 5814, 108, '03n', 'Nubes Dispersas ', '22'],
 ['23:30', 5187, 113, '03n', 'Nubes Dispersas ', '22'],
 ['23:35', 5187, 113, '03n', 'Nubes Dispersas ', '22'],
 ['23:40', 5187, 113, '03n', 'Nubes Dispersas ', '22'],
@@ -286,12 +281,17 @@ UFS = [
 ['22:45', 229, 154, '10n', 'Lluvia Ligera ', '22'],
 ['22:50', 229, 154, '10n', 'Lluvia Ligera ', '22'],
 ['22:55', 229, 163, '04n', 'Nubes ', '22'],
-['23:00', 229, 163, '04n', 'Nubes ', '22']
+['23:00', 229, 163, '04n', 'Nubes ', '22'],
+['23:05', 229, 163, '04n', 'Nubes ', '22'],
+['23:10', 229, 165, '04n', 'Nubes ', '22'],
+['23:15', 150, 169, '04n', 'Nubes ', '22'],
+['23:20', 150, 169, '04n', 'Nubes ', '22'],
+['23:25', 150, 130, '04n', 'Nubes ', '22']
 ];
-Hora_del_pico_maximo_EDS: '23:05';
-Pico_maximo_EDS = '5814';
+Hora_del_pico_maximo_EDS: '23:30';
+Pico_maximo_EDS = '5187';
 Hora_del_pico_maximo_EDN: '07:25';
 Pico_maximo_EDN = '9243';
-Valor_actual_EDS = '229';
-Valor_actual_EDN = '163';
-Hora_actual= '23:00';
+Valor_actual_EDS = '150';
+Valor_actual_EDN = '130';
+Hora_actual= '23:25';
