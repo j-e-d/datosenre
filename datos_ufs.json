@@ -1,15 +1,4 @@
 UFS = [
-['21:20', 11680, 128, '10n', 'Lluvia Ligera ', '23'],
-['21:25', 11680, 128, '10n', 'Lluvia Ligera ', '23'],
-['21:30', 1959, 128, '10n', 'Lluvia Ligera ', '23'],
-['21:35', 1959, 80, '10n', 'Lluvia Ligera ', '23'],
-['21:40', 1990, 80, '10n', 'Lluvia Ligera ', '23'],
-['21:45', 1990, 76, '04n', 'Muy Nuboso ', '23'],
-['21:50', 1807, 76, '04n', 'Muy Nuboso ', '23'],
-['21:55', 1494, 150, '04n', 'Muy Nuboso ', '23'],
-['22:00', 1495, 150, '04n', 'Muy Nuboso ', '23'],
-['22:05', 3988, 150, '04n', 'Muy Nuboso ', '23'],
-['22:10', 3968, 150, '10n', 'Lluvia Ligera ', '23'],
 ['22:15', 9274, 150, '10n', 'Lluvia Ligera ', '23'],
 ['22:20', 9274, 150, '10n', 'Lluvia Ligera ', '23'],
 ['22:25', 3695, 150, '10n', 'Lluvia Ligera ', '23'],
@@ -286,12 +275,23 @@ UFS = [
 ['21:00', 2924, 10984, '10n', 'Lluvia Moderada ', '22'],
 ['21:05', 2912, 10984, '10n', 'Lluvia Moderada ', '22'],
 ['21:10', 2912, 8471, '10n', 'Lluvia Moderada ', '22'],
-['21:15', 2912, 8463, '10n', 'Lluvia Moderada ', '22']
+['21:15', 2912, 8463, '10n', 'Lluvia Moderada ', '22'],
+['21:20', 694, 5438, '10n', 'Lluvia Moderada ', '22'],
+['21:25', 208, 5421, '10n', 'Lluvia Ligera ', '22'],
+['21:30', 208, 5421, '10n', 'Lluvia Ligera ', '22'],
+['21:35', 208, 5421, '10n', 'Lluvia Ligera ', '22'],
+['21:40', 223, 5421, '10n', 'Lluvia Ligera ', '22'],
+['21:45', 225, 4906, '10n', 'Lluvia Ligera ', '22'],
+['21:50', 225, 4906, '04n', 'Muy Nuboso ', '22'],
+['21:55', 225, 4906, '04n', 'Muy Nuboso ', '22'],
+['22:00', 225, 3903, '04n', 'Muy Nuboso ', '22'],
+['22:05', 225, 3858, '03n', 'Nubes Dispersas ', '22'],
+['22:10', 225, 1591, '03n', 'Nubes Dispersas ', '22']
 ];
-Hora_del_pico_maximo_EDS: '21:20';
-Pico_maximo_EDS = '11680';
+Hora_del_pico_maximo_EDS: '22:15';
+Pico_maximo_EDS = '9274';
 Hora_del_pico_maximo_EDN: '19:00';
 Pico_maximo_EDN = '11528';
-Valor_actual_EDS = '2912';
-Valor_actual_EDN = '8463';
-Hora_actual= '21:15';
+Valor_actual_EDS = '225';
+Valor_actual_EDN = '1591';
+Hora_actual= '22:10';
