@@ -1,16 +1,4 @@
 UFS = [
-['21:10', 3087, 1568, '01n', 'Cielo Claro ', '25'],
-['21:15', 3088, 737, '01n', 'Cielo Claro ', '25'],
-['21:20', 1040, 737, '01n', 'Cielo Claro ', '25'],
-['21:25', 1040, 737, '01n', 'Cielo Claro ', '25'],
-['21:30', 1040, 737, '01n', 'Cielo Claro ', '25'],
-['21:35', 608, 733, '01n', 'Cielo Claro ', '25'],
-['21:40', 608, 733, '01n', 'Cielo Claro ', '25'],
-['21:45', 608, 733, '01n', 'Cielo Claro ', '25'],
-['21:50', 608, 721, '01n', 'Cielo Claro ', '25'],
-['21:55', 618, 721, '01n', 'Cielo Claro ', '25'],
-['22:00', 618, 721, '01n', 'Cielo Claro ', '25'],
-['22:05', 618, 721, '01n', 'Cielo Claro ', '25'],
 ['22:10', 618, 717, '01n', 'Cielo Claro ', '24'],
 ['22:15', 618, 717, '01n', 'Cielo Claro ', '24'],
 ['22:20', 618, 717, '01n', 'Cielo Claro ', '24'],
@@ -286,12 +274,24 @@ UFS = [
 ['20:50', 2573, 1325, '10n', 'Lluvia Moderada ', '23'],
 ['20:55', 2573, 1325, '10n', 'Lluvia Moderada ', '23'],
 ['21:00', 2573, 215, '10n', 'Lluvia Moderada ', '22'],
-['21:05', 2573, 215, '10n', 'Lluvia Moderada ', '22']
+['21:05', 2573, 215, '10n', 'Lluvia Moderada ', '22'],
+['21:10', 2573, 215, '10n', 'Lluvia Moderada ', '22'],
+['21:15', 2573, 177, '10n', 'Lluvia Moderada ', '22'],
+['21:20', 2574, 177, '10n', 'Lluvia Ligera ', '22'],
+['21:25', 3194, 177, '10n', 'Lluvia Ligera ', '22'],
+['21:30', 2472, 196, '10n', 'Lluvia Moderada ', '21'],
+['21:35', 2472, 196, '10n', 'Lluvia Moderada ', '21'],
+['21:40', 3203, 196, '10n', 'Lluvia Moderada ', '21'],
+['21:45', 3206, 221, '10n', 'Lluvia Moderada ', '21'],
+['21:50', 3206, 221, '10n', 'Lluvia Moderada ', '21'],
+['21:55', 3205, 221, '10n', 'Lluvia Ligera ', '22'],
+['22:00', 103, 221, '10n', 'Lluvia Moderada ', '22'],
+['22:05', 103, 207, '10n', 'Lluvia Moderada ', '22']
 ];
 Hora_del_pico_maximo_EDS: '00:50';
 Pico_maximo_EDS = '9953';
 Hora_del_pico_maximo_EDN: '19:35';
 Pico_maximo_EDN = '11774';
-Valor_actual_EDS = '2573';
-Valor_actual_EDN = '215';
-Hora_actual= '21:05';
+Valor_actual_EDS = '103';
+Valor_actual_EDN = '207';
+Hora_actual= '22:05';
