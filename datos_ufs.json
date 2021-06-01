@@ -1,15 +1,4 @@
 UFS = [
-['07:40', 1188, 851, '01n', 'Cielo Claro ', '12'],
-['07:45', 1188, 874, '01n', 'Cielo Claro ', '12'],
-['07:50', 1188, 850, '01n', 'Cielo Claro ', '12'],
-['07:55', 328, 850, '01n', 'Cielo Claro ', '12'],
-['08:00', 328, 8190, '01d', 'Cielo Claro ', '12'],
-['08:05', 328, 8190, '01d', 'Cielo Claro ', '12'],
-['08:10', 334, 8208, '03d', 'Nubes Dispersas ', '12'],
-['08:15', 335, 3615, '03d', 'Nubes Dispersas ', '12'],
-['08:20', 335, 3502, '01d', 'Cielo Claro ', '12'],
-['08:25', 335, 3502, '01d', 'Cielo Claro ', '12'],
-['08:30', 365, 3502, '01d', 'Cielo Claro ', '12'],
 ['08:35', 368, 3909, '01d', 'Cielo Claro ', '12'],
 ['08:40', 368, 3909, '01d', 'Cielo Claro ', '12'],
 ['08:45', 368, 3909, '01d', 'Cielo Claro ', '12'],
@@ -286,12 +275,23 @@ UFS = [
 ['07:20', 1156, 2528, '01n', 'Cielo Claro ', '15'],
 ['07:25', 1156, 2528, '10n', 'Lluvia Moderada ', '15'],
 ['07:30', 1156, 2528, '10n', 'Lluvia Moderada ', '15'],
-['07:35', 1161, 2528, '10n', 'Lluvia Ligera ', '15']
+['07:35', 1161, 2528, '10n', 'Lluvia Ligera ', '15'],
+['07:40', 6465, 2528, '10n', 'Lluvia Ligera ', '15'],
+['07:45', 6465, 2528, '01n', 'Cielo Claro ', '15'],
+['07:50', 6474, 2528, '01n', 'Cielo Claro ', '15'],
+['07:55', 6476, 2528, '01n', 'Cielo Claro ', '15'],
+['08:00', 6477, 2528, '01n', 'Cielo Claro ', '15'],
+['08:05', 6477, 2528, '10d', 'Lluvia Moderada ', '15'],
+['08:10', 6479, 2528, '10d', 'Lluvia Moderada ', '15'],
+['08:15', 6479, 2528, '10d', 'Lluvia Moderada ', '15'],
+['08:20', 6479, 2528, '10d', 'Lluvia Moderada ', '15'],
+['08:25', 6481, 2528, '01d', 'Cielo Claro ', '15'],
+['08:30', 6482, 3016, '01d', 'Cielo Claro ', '15']
 ];
 Hora_del_pico_maximo_EDS: '11:50';
 Pico_maximo_EDS = '9250';
-Hora_del_pico_maximo_EDN: '08:10';
-Pico_maximo_EDN = '8208';
-Valor_actual_EDS = '1161';
-Valor_actual_EDN = '2528';
-Hora_actual= '07:35';
+Hora_del_pico_maximo_EDN: '16:00';
+Pico_maximo_EDN = '6710';
+Valor_actual_EDS = '6482';
+Valor_actual_EDN = '3016';
+Hora_actual= '08:30';
