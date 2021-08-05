@@ -1,6 +1,4 @@
 UFS = [
-['19:40', 398, 500, '50n', 'Bruma ', '11'],
-['19:45', 398, 500, '50n', 'Bruma ', '11'],
 ['19:50', 398, 500, '50n', 'Bruma ', '10'],
 ['19:55', 398, 500, '50n', 'Bruma ', '10'],
 ['20:00', 398, 500, '50n', 'Bruma ', '10'],
@@ -286,12 +284,14 @@ UFS = [
 ['19:20', 1385, 678, '50n', 'Bruma ', '12'],
 ['19:25', 1348, 735, '50n', 'Bruma ', '12'],
 ['19:30', 1443, 713, '50n', 'Bruma ', '12'],
-['19:35', 1110, 790, '50n', 'Bruma ', '12']
+['19:35', 1110, 790, '50n', 'Bruma ', '12'],
+['19:40', 1122, 15362, '50n', 'Bruma ', '12'],
+['19:45', 1122, 15362, '50n', 'Bruma ', '12']
 ];
 Hora_del_pico_maximo_EDS: '16:10';
 Pico_maximo_EDS = '9022';
-Hora_del_pico_maximo_EDN: '00:25';
-Pico_maximo_EDN = '5918';
-Valor_actual_EDS = '1110';
-Valor_actual_EDN = '790';
-Hora_actual= '19:35';
+Hora_del_pico_maximo_EDN: '19:40';
+Pico_maximo_EDN = '15362';
+Valor_actual_EDS = '1122';
+Valor_actual_EDN = '15362';
+Hora_actual= '19:45';
