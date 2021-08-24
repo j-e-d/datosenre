@@ -1,10 +1,4 @@
 UFS = [
-['20:50', 4296, 27, '01n', 'Cielo Claro ', '16'],
-['20:55', 4296, 27, '01n', 'Cielo Claro ', '16'],
-['21:00', 4297, 27, '01n', 'Cielo Claro ', '15'],
-['21:05', 4297, 27, '01n', 'Cielo Claro ', '15'],
-['21:10', 4298, 27, '01n', 'Cielo Claro ', '16'],
-['21:15', 4298, 27, '01n', 'Cielo Claro ', '16'],
 ['21:20', 4298, 27, '01n', 'Cielo Claro ', '16'],
 ['21:25', 3894, 27, '01n', 'Cielo Claro ', '16'],
 ['21:30', 3894, 27, '01n', 'Cielo Claro ', '16'],
@@ -286,12 +280,18 @@ UFS = [
 ['20:30', 1911, 1144, '01n', 'Cielo Claro ', '12'],
 ['20:35', 1912, 1144, '01n', 'Cielo Claro ', '12'],
 ['20:40', 1916, 1144, '01n', 'Cielo Claro ', '12'],
-['20:45', 1917, 2122, '01n', 'Cielo Claro ', '12']
+['20:45', 1917, 2122, '01n', 'Cielo Claro ', '12'],
+['20:50', 1917, 2122, '01n', 'Cielo Claro ', '11'],
+['20:55', 1919, 2122, '01n', 'Cielo Claro ', '11'],
+['21:00', 1919, 1155, '01n', 'Cielo Claro ', '11'],
+['21:05', 1921, 1155, '03n', 'Nubes Dispersas ', '11'],
+['21:10', 1921, 1155, '03n', 'Nubes Dispersas ', '11'],
+['21:15', 1898, 1013, '01n', 'Cielo Claro ', '11']
 ];
-Hora_del_pico_maximo_EDS: '21:10';
+Hora_del_pico_maximo_EDS: '21:20';
 Pico_maximo_EDS = '4298';
 Hora_del_pico_maximo_EDN: '23:55';
 Pico_maximo_EDN = '8534';
-Valor_actual_EDS = '1917';
-Valor_actual_EDN = '2122';
-Hora_actual= '20:45';
+Valor_actual_EDS = '1898';
+Valor_actual_EDN = '1013';
+Hora_actual= '21:15';
