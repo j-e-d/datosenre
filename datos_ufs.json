@@ -1,9 +1,4 @@
 UFS = [
-['10:15', 894, 3433, '01d', 'Cielo Claro ', '15'],
-['10:20', 894, 3433, '01d', 'Cielo Claro ', '15'],
-['10:25', 894, 3451, '01d', 'Cielo Claro ', '16'],
-['10:30', 881, 175, '01d', 'Cielo Claro ', '16'],
-['10:35', 881, 102, '01d', 'Cielo Claro ', '16'],
 ['10:40', 882, 118, '01d', 'Cielo Claro ', '16'],
 ['10:45', 882, 118, '01d', 'Cielo Claro ', '16'],
 ['10:50', 882, 118, '01d', 'Cielo Claro ', '16'],
@@ -286,12 +281,17 @@ UFS = [
 ['09:55', 2260, 63, '03d', 'Nubes Dispersas ', '15'],
 ['10:00', 2260, 56, '03d', 'Nubes Dispersas ', '15'],
 ['10:05', 2260, 56, '01d', 'Cielo Claro ', '17'],
-['10:10', 2260, 56, '01d', 'Cielo Claro ', '17']
+['10:10', 2260, 56, '01d', 'Cielo Claro ', '17'],
+['10:15', 2577, 57, '01d', 'Cielo Claro ', '17'],
+['10:20', 2577, 57, '01d', 'Cielo Claro ', '17'],
+['10:25', 2580, 57, '04d', 'Muy Nuboso ', '16'],
+['10:30', 2580, 57, '04d', 'Muy Nuboso ', '16'],
+['10:35', 792, 57, '04d', 'Muy Nuboso ', '16']
 ];
 Hora_del_pico_maximo_EDS: '16:05';
 Pico_maximo_EDS = '3202';
 Hora_del_pico_maximo_EDN: '19:15';
 Pico_maximo_EDN = '6703';
-Valor_actual_EDS = '2260';
-Valor_actual_EDN = '56';
-Hora_actual= '10:10';
+Valor_actual_EDS = '792';
+Valor_actual_EDN = '57';
+Hora_actual= '10:35';
