@@ -1,16 +1,4 @@
 UFS = [
-['00:00', 912, 1111, '01n', 'Cielo Claro ', '10'],
-['00:05', 912, 1111, '01n', 'Cielo Claro ', '10'],
-['00:10', 912, 1433, '01n', 'Cielo Claro ', '10'],
-['00:15', 912, 1433, '01n', 'Cielo Claro ', '10'],
-['00:20', 912, 1408, '01n', 'Cielo Claro ', '10'],
-['00:25', 899, 1408, '01n', 'Cielo Claro ', '10'],
-['00:30', 899, 1451, '01n', 'Cielo Claro ', '10'],
-['00:35', 263, 1395, '01n', 'Cielo Claro ', '10'],
-['00:40', 263, 1072, '01n', 'Cielo Claro ', '10'],
-['00:45', 263, 1072, '01n', 'Cielo Claro ', '10'],
-['00:50', 240, 1048, '01n', 'Cielo Claro ', '9'],
-['00:55', 216, 1049, '01n', 'Cielo Claro ', '9'],
 ['01:00', 216, 3825, '01n', 'Cielo Claro ', '9'],
 ['01:05', 216, 3825, '01n', 'Cielo Claro ', '9'],
 ['01:10', 216, 3836, '01n', 'Cielo Claro ', '9'],
@@ -286,12 +274,24 @@ UFS = [
 ['23:40', 3372, 3124, '01n', 'Cielo Claro ', '13'],
 ['23:45', 3374, 3124, '03n', 'Nubes Dispersas ', '12'],
 ['23:50', 3374, 3124, '03n', 'Nubes Dispersas ', '12'],
-['23:55', 3376, 2942, '03n', 'Nubes Dispersas ', '12']
+['23:55', 3376, 2942, '03n', 'Nubes Dispersas ', '12'],
+['00:00', 3376, 2942, '01n', 'Cielo Claro ', '12'],
+['00:05', 3376, 2942, '01n', 'Cielo Claro ', '12'],
+['00:10', 3376, 2942, '01n', 'Cielo Claro ', '12'],
+['00:15', 3377, 2942, '01n', 'Cielo Claro ', '12'],
+['00:20', 3441, 2942, '01n', 'Cielo Claro ', '12'],
+['00:25', 3441, 2390, '01n', 'Cielo Claro ', '12'],
+['00:30', 3441, 2392, '01n', 'Cielo Claro ', '12'],
+['00:35', 3442, 2392, '01n', 'Cielo Claro ', '12'],
+['00:40', 3443, 2392, '03n', 'Nubes Dispersas ', '11'],
+['00:45', 3443, 2423, '03n', 'Nubes Dispersas ', '11'],
+['00:50', 3513, 2365, '03n', 'Nubes Dispersas ', '11'],
+['00:55', 3553, 909, '03n', 'Nubes Dispersas ', '11']
 ];
 Hora_del_pico_maximo_EDS: '22:50';
 Pico_maximo_EDS = '4131';
 Hora_del_pico_maximo_EDN: '20:00';
 Pico_maximo_EDN = '8564';
-Valor_actual_EDS = '3376';
-Valor_actual_EDN = '2942';
-Hora_actual= '23:55';
+Valor_actual_EDS = '3553';
+Valor_actual_EDN = '909';
+Hora_actual= '00:55';
