@@ -1,8 +1,4 @@
 UFS = [
-['11:25', 557, 3017, '10d', 'Lluvia Muy Fuerte ', '12'],
-['11:30', 520, 998, '10d', 'Lluvia Muy Fuerte ', '12'],
-['11:35', 579, 970, '10d', 'Lluvia Muy Fuerte ', '12'],
-['11:40', 582, 970, '01d', 'Cielo Claro ', '12'],
 ['11:45', 219, 1732, '01d', 'Cielo Claro ', '12'],
 ['11:50', 262, 1120, '01d', 'Cielo Claro ', '12'],
 ['11:55', 262, 1120, '01d', 'Cielo Claro ', '12'],
@@ -286,12 +282,16 @@ UFS = [
 ['11:05', 3193, 2168, '02d', 'Algo De Nubes ', '12'],
 ['11:10', 3164, 5573, '02d', 'Algo De Nubes ', '12'],
 ['11:15', 3164, 5501, '02d', 'Algo De Nubes ', '12'],
-['11:20', 3163, 5501, '02d', 'Algo De Nubes ', '12']
+['11:20', 3163, 5501, '02d', 'Algo De Nubes ', '12'],
+['11:25', 3163, 5501, '02d', 'Algo De Nubes ', '12'],
+['11:30', 3164, 5349, '02d', 'Algo De Nubes ', '13'],
+['11:35', 6926, 5349, '02d', 'Algo De Nubes ', '13'],
+['11:40', 6926, 5293, '02d', 'Algo De Nubes ', '13']
 ];
-Hora_del_pico_maximo_EDS: '21:35';
-Pico_maximo_EDS = '5310';
+Hora_del_pico_maximo_EDS: '11:35';
+Pico_maximo_EDS = '6926';
 Hora_del_pico_maximo_EDN: '22:15';
 Pico_maximo_EDN = '8761';
-Valor_actual_EDS = '3163';
-Valor_actual_EDN = '5501';
-Hora_actual= '11:20';
+Valor_actual_EDS = '6926';
+Valor_actual_EDN = '5293';
+Hora_actual= '11:40';
