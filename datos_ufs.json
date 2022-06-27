@@ -1,15 +1,4 @@
 UFS = [
-['01:05', 5101, 1838, '04n', 'Nubes ', '8'],
-['01:10', 5101, 1838, '04n', 'Nubes ', '8'],
-['01:15', 5101, 1838, '03n', 'Nubes Dispersas ', '8'],
-['01:20', 5148, 7696, '03n', 'Nubes Dispersas ', '8'],
-['01:25', 5148, 7696, '03n', 'Nubes Dispersas ', '8'],
-['01:30', 5150, 3312, '03n', 'Nubes Dispersas ', '8'],
-['01:35', 5150, 3312, '03n', 'Nubes Dispersas ', '8'],
-['01:40', 5150, 2151, '03n', 'Nubes Dispersas ', '8'],
-['01:45', 5150, 2151, '03n', 'Nubes Dispersas ', '8'],
-['01:50', 5103, 2151, '03n', 'Nubes Dispersas ', '8'],
-['01:55', 5103, 2151, '03n', 'Nubes Dispersas ', '8'],
 ['02:00', 22066, 2155, '03n', 'Nubes Dispersas ', '8'],
 ['02:05', 22066, 2155, '03n', 'Nubes Dispersas ', '8'],
 ['02:10', 22066, 2155, '03n', 'Nubes Dispersas ', '8'],
@@ -286,12 +275,23 @@ UFS = [
 ['00:45', 3103, 1701, '01n', 'Cielo Claro ', '9'],
 ['00:50', 3082, 1676, '10n', 'Lluvia Ligera ', '9'],
 ['00:55', 3082, 1676, '10n', 'Lluvia Ligera ', '9'],
-['01:00', 2926, 1677, '10n', 'Lluvia Ligera ', '9']
+['01:00', 2926, 1677, '10n', 'Lluvia Ligera ', '9'],
+['01:05', 2926, 1677, '10n', 'Lluvia Ligera ', '9'],
+['01:10', 1570, 2215, '10n', 'Lluvia Ligera ', '9'],
+['01:15', 1570, 2215, '01n', 'Cielo Claro ', '9'],
+['01:20', 1186, 2182, '01n', 'Cielo Claro ', '9'],
+['01:25', 1186, 2182, '01n', 'Cielo Claro ', '9'],
+['01:30', 1186, 2182, '10n', 'Lluvia Ligera ', '9'],
+['01:35', 1178, 2209, '10n', 'Lluvia Moderada ', '9'],
+['01:40', 1178, 2209, '10n', 'Lluvia Moderada ', '9'],
+['01:45', 1178, 1952, '10n', 'Lluvia Moderada ', '9'],
+['01:50', 1178, 1952, '10n', 'Lluvia Moderada ', '9'],
+['01:55', 1188, 1952, '10n', 'Lluvia Moderada ', '9']
 ];
 Hora_del_pico_maximo_EDS: '02:00';
 Pico_maximo_EDS = '22066';
-Hora_del_pico_maximo_EDN: '01:20';
-Pico_maximo_EDN = '7696';
-Valor_actual_EDS = '2926';
-Valor_actual_EDN = '1677';
-Hora_actual= '01:00';
+Hora_del_pico_maximo_EDN: '21:20';
+Pico_maximo_EDN = '4954';
+Valor_actual_EDS = '1188';
+Valor_actual_EDN = '1952';
+Hora_actual= '01:55';
