@@ -1,16 +1,4 @@
 UFS = [
-['00:05', 1031, 1095, '50n', 'Niebla ', '16'],
-['00:10', 1031, 1095, '50n', 'Niebla ', '16'],
-['00:15', 1031, 1095, '09n', 'Llovizna Ligera ', '16'],
-['00:20', 1031, 1095, '09n', 'Llovizna Ligera ', '16'],
-['00:25', 1031, 1117, '09n', 'Llovizna Ligera ', '16'],
-['00:30', 1031, 1117, '09n', 'Llovizna Ligera ', '16'],
-['00:35', 1031, 1117, '09n', 'Llovizna Ligera ', '16'],
-['00:40', 1031, 1117, '09n', 'Llovizna Ligera ', '16'],
-['00:45', 1031, 1117, '10n', 'Lluvia Ligera ', '16'],
-['00:50', 1031, 1117, '10n', 'Lluvia Ligera ', '16'],
-['00:55', 1035, 1117, '09n', 'Llovizna Ligera ', '16'],
-['01:00', 1035, 1117, '09n', 'Llovizna Ligera ', '16'],
 ['01:05', 1036, 1118, '09n', 'Llovizna Ligera ', '16'],
 ['01:10', 1036, 1118, '09n', 'Llovizna Ligera ', '16'],
 ['01:15', 1036, 1118, '09n', 'Llovizna Ligera ', '16'],
@@ -286,12 +274,24 @@ UFS = [
 ['23:45', 251, 249, '01n', 'Cielo Claro ', '10'],
 ['23:50', 251, 274, '01n', 'Cielo Claro ', '10'],
 ['23:55', 251, 274, '01n', 'Cielo Claro ', '10'],
-['00:00', 253, 275, '01n', 'Cielo Claro ', '9']
+['00:00', 253, 275, '01n', 'Cielo Claro ', '9'],
+['00:05', 253, 275, '01n', 'Cielo Claro ', '9'],
+['00:10', 253, 275, '01n', 'Cielo Claro ', '9'],
+['00:15', 253, 275, '01n', 'Cielo Claro ', '9'],
+['00:20', 255, 279, '01n', 'Cielo Claro ', '9'],
+['00:25', 255, 279, '01n', 'Cielo Claro ', '9'],
+['00:30', 255, 275, '01n', 'Cielo Claro ', '9'],
+['00:35', 255, 275, '01n', 'Cielo Claro ', '9'],
+['00:40', 255, 275, '01n', 'Cielo Claro ', '9'],
+['00:45', 255, 275, '01n', 'Cielo Claro ', '9'],
+['00:50', 255, 271, '01n', 'Cielo Claro ', '9'],
+['00:55', 255, 271, '01n', 'Cielo Claro ', '9'],
+['01:00', 264, 272, '01n', 'Cielo Claro ', '9']
 ];
 Hora_del_pico_maximo_EDS: '14:25';
 Pico_maximo_EDS = '3389';
 Hora_del_pico_maximo_EDN: '12:05';
 Pico_maximo_EDN = '8487';
-Valor_actual_EDS = '253';
-Valor_actual_EDN = '275';
-Hora_actual= '00:00';
+Valor_actual_EDS = '264';
+Valor_actual_EDN = '272';
+Hora_actual= '01:00';
