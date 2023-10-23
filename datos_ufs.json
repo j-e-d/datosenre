@@ -1,7 +1,4 @@
 UFS = [
-['05:10', 15, 61, '10n', 'Lluvia Ligera ', '18'],
-['05:15', 15, 61, '10n', 'Lluvia Moderada ', '18'],
-['05:20', 15, 61, '10n', 'Lluvia Moderada ', '18'],
 ['05:25', 15, 61, '10n', 'Lluvia Ligera ', '18'],
 ['05:30', 15, 61, '10n', 'Lluvia Ligera ', '18'],
 ['05:35', 15, 61, '10n', 'Lluvia Moderada ', '18'],
@@ -286,12 +283,15 @@ UFS = [
 ['04:50', 10, 50, '04n', 'Nubes ', '18'],
 ['04:55', 10, 50, '04n', 'Nubes ', '18'],
 ['05:00', 10, 50, '04n', 'Nubes ', '18'],
-['05:05', 10, 50, '04n', 'Nubes ', '18']
+['05:05', 10, 50, '04n', 'Nubes ', '18'],
+['05:10', 10, 50, '10n', 'Lluvia Ligera ', '18'],
+['05:15', 10, 50, '50n', 'Niebla ', '18'],
+['05:20', 19, 50, '50n', 'Niebla ', '18']
 ];
 Hora_del_pico_maximo_EDS: '23:35';
 Pico_maximo_EDS = '2711';
 Hora_del_pico_maximo_EDN: '14:15';
 Pico_maximo_EDN = '4005';
-Valor_actual_EDS = '10';
+Valor_actual_EDS = '19';
 Valor_actual_EDN = '50';
-Hora_actual= '05:05';
+Hora_actual= '05:20';
