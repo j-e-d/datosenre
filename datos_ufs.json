@@ -1,7 +1,4 @@
 UFS = [
-['08:05', 72, 60, '01d', 'Cielo Claro ', '26'],
-['08:10', 72, 60, '01d', 'Cielo Claro ', '26'],
-['08:15', 77, 386, '01d', 'Cielo Claro ', '26'],
 ['08:20', 77, 386, '01d', 'Cielo Claro ', '26'],
 ['08:25', 77, 386, '01d', 'Cielo Claro ', '26'],
 ['08:30', 87, 1495, '01d', 'Cielo Claro ', '26'],
@@ -286,12 +283,15 @@ UFS = [
 ['07:45', 5078, 670, '01d', 'Cielo Claro ', '19'],
 ['07:50', 5078, 670, '01d', 'Cielo Claro ', '20'],
 ['07:55', 5078, 670, '01d', 'Cielo Claro ', '20'],
-['08:00', 5079, 670, '01d', 'Cielo Claro ', '20']
+['08:00', 5079, 670, '01d', 'Cielo Claro ', '20'],
+['08:05', 5079, 670, '04d', 'Nubes ', '20'],
+['08:10', 5079, 670, '04d', 'Nubes ', '20'],
+['08:15', 68, 655, '04d', 'Nubes ', '20']
 ];
 Hora_del_pico_maximo_EDS: '08:00';
 Pico_maximo_EDS = '5079';
 Hora_del_pico_maximo_EDN: '09:20';
 Pico_maximo_EDN = '9472';
-Valor_actual_EDS = '5079';
-Valor_actual_EDN = '670';
-Hora_actual= '08:00';
+Valor_actual_EDS = '68';
+Valor_actual_EDN = '655';
+Hora_actual= '08:15';
