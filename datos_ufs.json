@@ -1,10 +1,4 @@
 UFS = [
-['06:25', 92, 163, '01n', 'Cielo Claro ', '16'],
-['06:30', 92, 163, '50d', 'Bruma ', '16'],
-['06:35', 90, 163, '50d', 'Bruma ', '16'],
-['06:40', 90, 163, '50d', 'Bruma ', '16'],
-['06:45', 90, 163, '50d', 'Bruma ', '16'],
-['06:50', 95, 163, '50d', 'Bruma ', '16'],
 ['06:55', 95, 163, '50d', 'Bruma ', '16'],
 ['07:00', 95, 163, '50d', 'Bruma ', '16'],
 ['07:05', 96, 165, '50d', 'Bruma ', '16'],
@@ -286,12 +280,18 @@ UFS = [
 ['06:05', 1206, 1276, '10n', 'Lluvia Moderada ', '13'],
 ['06:10', 1206, 1276, '10n', 'Lluvia Moderada ', '13'],
 ['06:15', 1206, 1276, '10n', 'Lluvia Ligera ', '14'],
-['06:20', 856, 1277, '10n', 'Lluvia Ligera ', '14']
+['06:20', 856, 1277, '10n', 'Lluvia Ligera ', '14'],
+['06:25', 856, 1277, '10d', 'Lluvia Ligera ', '14'],
+['06:30', 856, 1277, '04d', 'Nubes ', '14'],
+['06:35', 854, 1276, '10d', 'Lluvia Moderada ', '14'],
+['06:40', 854, 1276, '10d', 'Lluvia Ligera ', '13'],
+['06:45', 854, 1276, '10d', 'Lluvia Ligera ', '13'],
+['06:50', 854, 1269, '10d', 'Lluvia Ligera ', '13']
 ];
 Hora_del_pico_maximo_EDS: '03:45';
 Pico_maximo_EDS = '4114';
 Hora_del_pico_maximo_EDN: '03:45';
 Pico_maximo_EDN = '6010';
-Valor_actual_EDS = '856';
-Valor_actual_EDN = '1277';
-Hora_actual= '06:20';
+Valor_actual_EDS = '854';
+Valor_actual_EDN = '1269';
+Hora_actual= '06:50';
