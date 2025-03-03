@@ -1,15 +1,4 @@
 UFS = [
-['22:00', 878, 384, '01n', 'Cielo Claro ', '24'],
-['22:05', 878, 386, '01n', 'Cielo Claro ', '24'],
-['22:10', 876, 371, '01n', 'Cielo Claro ', '24'],
-['22:15', 876, 371, '01n', 'Cielo Claro ', '24'],
-['22:20', 878, 371, '01n', 'Cielo Claro ', '24'],
-['22:25', 878, 386, '01n', 'Cielo Claro ', '24'],
-['22:30', 882, 386, '01n', 'Cielo Claro ', '24'],
-['22:35', 881, 386, '01n', 'Cielo Claro ', '23'],
-['22:40', 882, 386, '01n', 'Cielo Claro ', '23'],
-['22:45', 885, 393, '01n', 'Cielo Claro ', '23'],
-['22:50', 886, 404, '01n', 'Cielo Claro ', '23'],
 ['22:55', 889, 404, '01n', 'Cielo Claro ', '23'],
 ['23:00', 891, 404, '01n', 'Cielo Claro ', '23'],
 ['23:05', 895, 406, '01n', 'Cielo Claro ', '23'],
@@ -286,12 +275,23 @@ UFS = [
 ['21:40', 2194, 250, '10n', 'Lluvia Moderada ', '22'],
 ['21:45', 1526, 225, '10n', 'Lluvia De Gran Intensidad ', '22'],
 ['21:50', 1527, 210, '10n', 'Lluvia De Gran Intensidad ', '22'],
-['21:55', 1529, 168, '04n', 'Nubes ', '22']
+['21:55', 1529, 168, '04n', 'Nubes ', '22'],
+['22:00', 1529, 168, '04n', 'Nubes ', '22'],
+['22:05', 1531, 168, '10n', 'Lluvia De Gran Intensidad ', '22'],
+['22:10', 1533, 206, '10n', 'Lluvia De Gran Intensidad ', '22'],
+['22:15', 1533, 206, '10n', 'Lluvia De Gran Intensidad ', '22'],
+['22:20', 1533, 206, '10n', 'Lluvia De Gran Intensidad ', '22'],
+['22:25', 1533, 206, '10n', 'Lluvia De Gran Intensidad ', '22'],
+['22:30', 3501, 206, '10n', 'Lluvia Ligera ', '22'],
+['22:35', 3502, 1728, '10n', 'Lluvia Ligera ', '22'],
+['22:40', 3502, 1728, '10n', 'Lluvia Ligera ', '22'],
+['22:45', 3502, 1728, '11n', 'Tormenta Con Lluvia Ligera ', '22'],
+['22:50', 3506, 1728, '11n', 'Tormenta Con Lluvia Ligera ', '22']
 ];
 Hora_del_pico_maximo_EDS: '19:00';
 Pico_maximo_EDS = '10024';
 Hora_del_pico_maximo_EDN: '08:25';
 Pico_maximo_EDN = '4291';
-Valor_actual_EDS = '1529';
-Valor_actual_EDN = '168';
-Hora_actual= '21:55';
+Valor_actual_EDS = '3506';
+Valor_actual_EDN = '1728';
+Hora_actual= '22:50';
