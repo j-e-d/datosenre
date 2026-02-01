@@ -1,18 +1,4 @@
 UFS = [
-['23:30', 4224, 146, '04n', 'Muy Nuboso ', '24'],
-['23:35', 4224, 146, '04n', 'Muy Nuboso ', '24'],
-['23:40', 4228, 141, '04n', 'Muy Nuboso ', '24'],
-['23:45', 4229, 141, '04n', 'Muy Nuboso ', '24'],
-['23:50', 3579, 141, '04n', 'Muy Nuboso ', '24'],
-['23:55', 3584, 141, '04n', 'Muy Nuboso ', '24'],
-['00:00', 3584, 141, '04n', 'Muy Nuboso ', '24'],
-['00:05', 3584, 141, '04n', 'Muy Nuboso ', '24'],
-['00:10', 1397, 234, '04n', 'Muy Nuboso ', '24'],
-['00:15', 1417, 234, '03n', 'Nubes Dispersas ', '24'],
-['00:20', 1417, 234, '03n', 'Nubes Dispersas ', '24'],
-['00:25', 1417, 234, '03n', 'Nubes Dispersas ', '24'],
-['00:30', 1491, 234, '03n', 'Nubes Dispersas ', '24'],
-['00:35', 1485, 234, '03n', 'Nubes Dispersas ', '24'],
 ['00:40', 860, 253, '03n', 'Nubes Dispersas ', '24'],
 ['00:45', 861, 253, '03n', 'Nubes Dispersas ', '24'],
 ['00:50', 1140, 253, '03n', 'Nubes Dispersas ', '24'],
@@ -286,12 +272,26 @@ UFS = [
 ['23:10', 1640, 522, '03n', 'Nubes Dispersas ', '23'],
 ['23:15', 1641, 522, '03n', 'Nubes Dispersas ', '23'],
 ['23:20', 1642, 522, '03n', 'Nubes Dispersas ', '23'],
-['23:25', 1642, 7062, '03n', 'Nubes Dispersas ', '23']
+['23:25', 1642, 7062, '03n', 'Nubes Dispersas ', '23'],
+['23:30', 1642, 7062, '03n', 'Nubes Dispersas ', '24'],
+['23:35', 672, 7062, '03n', 'Nubes Dispersas ', '24'],
+['23:40', 673, 1368, '03n', 'Nubes Dispersas ', '24'],
+['23:45', 673, 1368, '03n', 'Nubes Dispersas ', '24'],
+['23:50', 673, 1368, '03n', 'Nubes Dispersas ', '24'],
+['23:55', 673, 1368, '03n', 'Nubes Dispersas ', '24'],
+['00:00', 673, 1369, '03n', 'Nubes Dispersas ', '23'],
+['00:05', 673, 1369, '03n', 'Nubes Dispersas ', '23'],
+['00:10', 673, 1172, '03n', 'Nubes Dispersas ', '23'],
+['00:15', 673, 1172, '03n', 'Nubes Dispersas ', '23'],
+['00:20', 673, 1172, '03n', 'Nubes Dispersas ', '23'],
+['00:25', 673, 1172, '03n', 'Nubes Dispersas ', '23'],
+['00:30', 703, 1172, '03n', 'Nubes Dispersas ', '23'],
+['00:35', 703, 1172, '03n', 'Nubes Dispersas ', '23']
 ];
 Hora_del_pico_maximo_EDS: '16:35';
 Pico_maximo_EDS = '5329';
 Hora_del_pico_maximo_EDN: '23:25';
 Pico_maximo_EDN = '7062';
-Valor_actual_EDS = '1642';
-Valor_actual_EDN = '7062';
-Hora_actual= '23:25';
+Valor_actual_EDS = '703';
+Valor_actual_EDN = '1172';
+Hora_actual= '00:35';
