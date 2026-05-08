@@ -1,17 +1,4 @@
 UFS = [
-['00:50', 7398, 326, '11n', 'Tormenta Con Lluvia Ligera ', '23'],
-['00:55', 6091, 326, '11n', 'Tormenta Con Lluvia Ligera ', '23'],
-['01:00', 10118, 239, '11n', 'Tormenta Con Lluvia Ligera ', '23'],
-['01:05', 10120, 239, '10n', 'Lluvia Ligera ', '23'],
-['01:10', 12428, 239, '10n', 'Lluvia De Gran Intensidad ', '22'],
-['01:15', 12080, 1002, '10n', 'Lluvia De Gran Intensidad ', '22'],
-['01:20', 12090, 1002, '10n', 'Lluvia De Gran Intensidad ', '20'],
-['01:25', 19596, 614, '10n', 'Lluvia De Gran Intensidad ', '20'],
-['01:30', 19606, 614, '10n', 'Lluvia De Gran Intensidad ', '20'],
-['01:35', 15161, 4365, '11n', 'Tormenta Con Lluvia Ligera ', '19'],
-['01:40', 15161, 4365, '11n', 'Tormenta Con Lluvia Ligera ', '19'],
-['01:45', 15161, 4365, '11n', 'Tormenta Con Lluvia Intensa ', '19'],
-['01:50', 15161, 4365, '11n', 'Tormenta Con Lluvia Intensa ', '19'],
 ['01:55', 19045, 4365, '10n', 'Lluvia De Gran Intensidad ', '18'],
 ['02:00', 19046, 2404, '10n', 'Lluvia De Gran Intensidad ', '18'],
 ['02:05', 19046, 2404, '11n', 'Tormenta Con Lluvia ', '18'],
@@ -286,12 +273,25 @@ UFS = [
 ['00:30', 2676, 127, '09n', 'Llovizna Ligera ', '10'],
 ['00:35', 2584, 127, '09n', 'Llovizna Ligera ', '10'],
 ['00:40', 838, 127, '09n', 'Llovizna Ligera ', '10'],
-['00:45', 838, 127, '09n', 'Llovizna Ligera ', '10']
+['00:45', 838, 127, '09n', 'Llovizna Ligera ', '10'],
+['00:50', 838, 127, '09n', 'Llovizna Ligera ', '10'],
+['00:55', 838, 127, '09n', 'Llovizna Ligera ', '10'],
+['01:00', 838, 127, '09n', 'Llovizna Ligera ', '10'],
+['01:05', 838, 127, '09n', 'Llovizna Ligera ', '11'],
+['01:10', 838, 127, '09n', 'Llovizna Ligera ', '11'],
+['01:15', 838, 127, '09n', 'Llovizna ', '10'],
+['01:20', 838, 127, '09n', 'Llovizna ', '10'],
+['01:25', 838, 127, '09n', 'Llovizna ', '10'],
+['01:30', 838, 4242, '04n', 'Nubes ', '10'],
+['01:35', 838, 4242, '04n', 'Nubes ', '10'],
+['01:40', 734, 2613, '04n', 'Nubes ', '10'],
+['01:45', 734, 2613, '04n', 'Nubes ', '10'],
+['01:50', 735, 2613, '04n', 'Nubes ', '10']
 ];
-Hora_del_pico_maximo_EDS: '01:30';
-Pico_maximo_EDS = '19606';
+Hora_del_pico_maximo_EDS: '04:05';
+Pico_maximo_EDS = '19476';
 Hora_del_pico_maximo_EDN: '05:20';
 Pico_maximo_EDN = '6661';
-Valor_actual_EDS = '838';
-Valor_actual_EDN = '127';
-Hora_actual= '00:45';
+Valor_actual_EDS = '735';
+Valor_actual_EDN = '2613';
+Hora_actual= '01:50';
