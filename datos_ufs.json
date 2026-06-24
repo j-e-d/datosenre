@@ -1,19 +1,4 @@
 UFS = [
-['11:00', 3329, 1306, '01d', 'Cielo Claro ', '7'],
-['11:05', 3329, 1306, '01d', 'Cielo Claro ', '7'],
-['11:10', 2998, 1306, '01d', 'Cielo Claro ', '8'],
-['11:15', 3000, 1577, '01d', 'Cielo Claro ', '8'],
-['11:20', 3007, 1577, '01d', 'Cielo Claro ', '9'],
-['11:25', 3014, 1220, '01d', 'Cielo Claro ', '9'],
-['11:30', 3025, 1220, '01d', 'Cielo Claro ', '9'],
-['11:35', 3025, 1220, '01d', 'Cielo Claro ', '9'],
-['11:40', 3025, 1220, '01d', 'Cielo Claro ', '9'],
-['11:45', 3663, 1220, '01d', 'Cielo Claro ', '9'],
-['11:50', 3046, 1220, '01d', 'Cielo Claro ', '9'],
-['11:55', 3058, 977, '01d', 'Cielo Claro ', '10'],
-['12:00', 3032, 977, '01d', 'Cielo Claro ', '10'],
-['12:05', 3032, 977, '01d', 'Cielo Claro ', '10'],
-['12:10', 3148, 977, '01d', 'Cielo Claro ', '10'],
 ['12:15', 3149, 977, '01d', 'Cielo Claro ', '10'],
 ['12:20', 3149, 977, '01d', 'Cielo Claro ', '10'],
 ['12:25', 3155, 977, '01d', 'Cielo Claro ', '10'],
@@ -286,12 +271,27 @@ UFS = [
 ['10:40', 9499, 5189, '02d', 'Algo De Nubes ', '8'],
 ['10:45', 7172, 5256, '02d', 'Algo De Nubes ', '8'],
 ['10:50', 10797, 5256, '02d', 'Algo De Nubes ', '8'],
-['10:55', 10825, 5256, '02d', 'Algo De Nubes ', '8']
+['10:55', 10825, 5256, '02d', 'Algo De Nubes ', '8'],
+['11:00', 9177, 5256, '02d', 'Algo De Nubes ', '9'],
+['11:05', 8144, 4862, '02d', 'Algo De Nubes ', '9'],
+['11:10', 8123, 4862, '02d', 'Algo De Nubes ', '9'],
+['11:15', 8123, 4862, '02d', 'Algo De Nubes ', '9'],
+['11:20', 6752, 4862, '02d', 'Algo De Nubes ', '10'],
+['11:25', 6509, 4795, '02d', 'Algo De Nubes ', '10'],
+['11:30', 6509, 4795, '02d', 'Algo De Nubes ', '10'],
+['11:35', 5941, 4795, '02d', 'Algo De Nubes ', '10'],
+['11:40', 5793, 4795, '02d', 'Algo De Nubes ', '10'],
+['11:45', 2004, 6065, '02d', 'Algo De Nubes ', '10'],
+['11:50', 2007, 6065, '02d', 'Algo De Nubes ', '10'],
+['11:55', 2030, 5243, '02d', 'Algo De Nubes ', '10'],
+['12:00', 3604, 5243, '02d', 'Algo De Nubes ', '10'],
+['12:05', 3660, 5243, '02d', 'Algo De Nubes ', '10'],
+['12:10', 4310, 5471, '02d', 'Algo De Nubes ', '10']
 ];
 Hora_del_pico_maximo_EDS: '07:25';
 Pico_maximo_EDS = '32309';
-Hora_del_pico_maximo_EDN: '10:45';
-Pico_maximo_EDN = '5256';
-Valor_actual_EDS = '10825';
-Valor_actual_EDN = '5256';
-Hora_actual= '10:55';
+Hora_del_pico_maximo_EDN: '11:45';
+Pico_maximo_EDN = '6065';
+Valor_actual_EDS = '4310';
+Valor_actual_EDN = '5471';
+Hora_actual= '12:10';
