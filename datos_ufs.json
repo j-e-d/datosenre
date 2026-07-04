@@ -1,22 +1,4 @@
 UFS = [
-['07:25', 6947, 802, '01n', 'Cielo Claro ', '1'],
-['07:30', 6938, 1608, '01n', 'Cielo Claro ', '1'],
-['07:35', 6946, 1608, '01n', 'Cielo Claro ', '2'],
-['07:40', 6948, 1608, '01n', 'Cielo Claro ', '2'],
-['07:45', 6968, 1608, '01n', 'Cielo Claro ', '2'],
-['07:50', 6973, 1608, '01n', 'Cielo Claro ', '2'],
-['07:55', 6974, 1608, '01n', 'Cielo Claro ', '2'],
-['08:00', 6976, 1608, '01n', 'Cielo Claro ', '2'],
-['08:05', 6983, 1608, '01n', 'Cielo Claro ', '2'],
-['08:10', 6983, 1608, '01d', 'Cielo Claro ', '2'],
-['08:15', 6972, 1608, '01d', 'Cielo Claro ', '2'],
-['08:20', 6972, 1608, '01d', 'Cielo Claro ', '2'],
-['08:25', 6980, 1608, '01d', 'Cielo Claro ', '1'],
-['08:30', 7000, 1627, '01d', 'Cielo Claro ', '1'],
-['08:35', 4337, 1627, '01d', 'Cielo Claro ', '1'],
-['08:40', 4337, 1627, '01d', 'Cielo Claro ', '1'],
-['08:45', 5041, 1655, '01d', 'Cielo Claro ', '1'],
-['08:50', 5048, 1645, '01d', 'Cielo Claro ', '1'],
 ['08:55', 8164, 1645, '01d', 'Cielo Claro ', '1'],
 ['09:00', 8173, 1645, '01d', 'Cielo Claro ', '1'],
 ['09:05', 8173, 1645, '01d', 'Cielo Claro ', '1'],
@@ -286,12 +268,30 @@ UFS = [
 ['07:05', 658, 0, '01n', 'Cielo Claro ', '4'],
 ['07:10', 658, 0, '01n', 'Cielo Claro ', '4'],
 ['07:15', 658, 0, '01n', 'Cielo Claro ', '4'],
-['07:20', 4037, 0, '01n', 'Cielo Claro ', '4']
+['07:20', 4037, 0, '01n', 'Cielo Claro ', '4'],
+['07:25', 4037, 0, '01n', 'Cielo Claro ', '4'],
+['07:30', 4038, 0, '01n', 'Cielo Claro ', '4'],
+['07:35', 4040, 0, '01n', 'Cielo Claro ', '4'],
+['07:40', 4043, 371, '01n', 'Cielo Claro ', '4'],
+['07:45', 4045, 371, '03n', 'Nubes Dispersas ', '4'],
+['07:50', 4045, 371, '03n', 'Nubes Dispersas ', '4'],
+['07:55', 4044, 371, '03n', 'Nubes Dispersas ', '4'],
+['08:00', 4044, 371, '03n', 'Nubes Dispersas ', '4'],
+['08:05', 3752, 371, '03d', 'Nubes Dispersas ', '4'],
+['08:10', 3752, 371, '03d', 'Nubes Dispersas ', '4'],
+['08:15', 3750, 371, '03d', 'Nubes Dispersas ', '4'],
+['08:20', 3749, 371, '03d', 'Nubes Dispersas ', '5'],
+['08:25', 3749, 2189, '03d', 'Nubes Dispersas ', '5'],
+['08:30', 3756, 2189, '03d', 'Nubes Dispersas ', '5'],
+['08:35', 3762, 450, '03d', 'Nubes Dispersas ', '5'],
+['08:40', 3762, 450, '03d', 'Nubes Dispersas ', '5'],
+['08:45', 3760, 450, '03d', 'Nubes Dispersas ', '5'],
+['08:50', 3736, 450, '03d', 'Nubes Dispersas ', '5']
 ];
 Hora_del_pico_maximo_EDS: '22:45';
 Pico_maximo_EDS = '8856';
 Hora_del_pico_maximo_EDN: '10:25';
 Pico_maximo_EDN = '5396';
-Valor_actual_EDS = '4037';
-Valor_actual_EDN = '0';
-Hora_actual= '07:20';
+Valor_actual_EDS = '3736';
+Valor_actual_EDN = '450';
+Hora_actual= '08:50';
